@@ -1,0 +1,11 @@
+C:\Users\suzet\OneDrive\Área de Trabalho\trabalho 3\Interface Micro\InterfaceRadio\InterfaceRadio\bin\Debug\InterfaceRadio.exe.config
+C:\Users\suzet\OneDrive\Área de Trabalho\trabalho 3\Interface Micro\InterfaceRadio\InterfaceRadio\bin\Debug\InterfaceRadio.exe
+C:\Users\suzet\OneDrive\Área de Trabalho\trabalho 3\Interface Micro\InterfaceRadio\InterfaceRadio\bin\Debug\InterfaceRadio.pdb
+C:\Users\suzet\OneDrive\Área de Trabalho\trabalho 3\Interface Micro\InterfaceRadio\InterfaceRadio\obj\Debug\InterfaceRadio.csproj.AssemblyReference.cache
+C:\Users\suzet\OneDrive\Área de Trabalho\trabalho 3\Interface Micro\InterfaceRadio\InterfaceRadio\obj\Debug\InterfaceRadio.csproj.SuggestedBindingRedirects.cache
+C:\Users\suzet\OneDrive\Área de Trabalho\trabalho 3\Interface Micro\InterfaceRadio\InterfaceRadio\obj\Debug\InterfaceRadio.Form1.resources
+C:\Users\suzet\OneDrive\Área de Trabalho\trabalho 3\Interface Micro\InterfaceRadio\InterfaceRadio\obj\Debug\InterfaceRadio.Properties.Resources.resources
+C:\Users\suzet\OneDrive\Área de Trabalho\trabalho 3\Interface Micro\InterfaceRadio\InterfaceRadio\obj\Debug\InterfaceRadio.csproj.GenerateResource.cache
+C:\Users\suzet\OneDrive\Área de Trabalho\trabalho 3\Interface Micro\InterfaceRadio\InterfaceRadio\obj\Debug\InterfaceRadio.csproj.CoreCompileInputs.cache
+C:\Users\suzet\OneDrive\Área de Trabalho\trabalho 3\Interface Micro\InterfaceRadio\InterfaceRadio\obj\Debug\InterfaceRadio.exe
+C:\Users\suzet\OneDrive\Área de Trabalho\trabalho 3\Interface Micro\InterfaceRadio\InterfaceRadio\obj\Debug\InterfaceRadio.pdb
